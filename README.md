@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ibnAbuMahdi
-- 👀 I’m interested in software engineering and android development
-- 🌱 I’m always learning one thing or the other about software and how to use it to solve human problems.
-- 💞️ I’m looking to collaborate on anything related to android or software dev that is interesting and has the opportunity to solve a largescale problem. 
+- 👀 I’m interested in Backend software engineering 
+- 🌱 I’m always learning one thing or the other about building scalable software.
+- 💞️ I’m looking to collaborate on anything related to software dev that is interesting and has the opportunity to solve a largescale problem. 
 - 📫 You can reach me on linkedIn at linkedin.com/in/ruhullahi-muhammad-82891a90
 
 <!---
