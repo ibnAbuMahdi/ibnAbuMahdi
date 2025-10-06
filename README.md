@@ -1,4 +1,4 @@
-Co-founder @ [Stika](www.stika.ng)
+Co-founder @ [Stika](https://www.stika.ng)
 
 <!---
 ibnAbuMahdi/ibnAbuMahdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
